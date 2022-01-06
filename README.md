@@ -1,25 +1,25 @@
-# BlueWallet - A Bitcoin & Lightning Wallet
+# Wallet by Brix - A Pearl Network Wallet
 
 [![GitHub tag](https://img.shields.io/badge/dynamic/json.svg?url=https://raw.githubusercontent.com/BlueWallet/BlueWallet/master/package.json&query=$.version&label=Version)](https://github.com/BlueWallet/BlueWallet)
 [![CircleCI](https://circleci.com/gh/BlueWallet/BlueWallet.svg?style=svg)](https://circleci.com/gh/BlueWallet/BlueWallet)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 ![](https://img.shields.io/github/license/BlueWallet/BlueWallet.svg)
 
-Thin Bitcoin Wallet.
+Fork of Blue Wallet.
 Built with React Native and Electrum.
 
 [![Appstore](https://bluewallet.io/uploads/app-store-badge-blue.svg)](https://itunes.apple.com/us/app/bluewallet-bitcoin-wallet/id1376878040?l=ru&ls=1&mt=8)
 [![Playstore](https://bluewallet.io/uploads/play-store-badge-blue.svg)](https://play.google.com/store/apps/details?id=io.bluewallet.bluewallet)
 
-Website: [bluewallet.io](https://bluewallet.io)
+Website: [brixpayments.com](https://brixpayments.com)
 
-Community: [telegram group](https://t.me/bluewallet)
+Community: [discord_server](https://discord.gg/MzhrJYPADP)
 
 * Private keys never leave your device
-* Lightning Network supported
+* Pearl Network supported
 * SegWit-first. Replace-By-Fee support
 * Encryption. Plausible deniability
-* And many more [features...](https://bluewallet.io/features)
+* And many more [features...](https://brixpayments.com/wallet)
 
 
 <img src="https://i.imgur.com/hHYJnMj.png" width="100%">
